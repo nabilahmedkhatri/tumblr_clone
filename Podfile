@@ -6,7 +6,7 @@ target 'tumblr_clone' do
   use_frameworks!
 
   # Pods for tumblr_clone
-  pod 'AlamofireImage', '~> 3.1'
+  pod 'AlamofireImage'
 
   target 'tumblr_cloneTests' do
     inherit! :search_paths
